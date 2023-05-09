@@ -58,10 +58,6 @@ MyEventHub is an ios app which which allows users to search for event informatio
 - [x] Location Details (Apple Map SDK)
 - [x] Add event to favorites
 
-#### API Example
-
-- [x] Event Search: GET https://api-dot-myeventhubangular-9594.wl.r.appspot.com/getEventSearch?keyword=Coldplay&segmentId=0&radius=10&geohash=9q5ctr1
-
 <!-- DEMO -->
 #### Demo
 
