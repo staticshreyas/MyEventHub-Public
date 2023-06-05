@@ -61,7 +61,8 @@ MyEventHub is an ios app which which allows users to search for event informatio
 <!-- DEMO -->
 #### Demo
 
-https://user-images.githubusercontent.com/50262105/236962367-8926cefb-2636-4e79-ad45-6965d2b9f094.mp4
+https://github.com/staticshreyas/MyEventHub-Public/assets/50262105/b4e9392a-5e48-4f84-bd18-138d7cce9212
+
 
 <!-- CONTACT -->
 ## Contact
